@@ -1,0 +1,6 @@
+{
+  "name": "E-Learning Conseil Régional du Gbêkê - GAR & Gestion de Projet",
+  "description": "Plateforme interactive de formation et de renforcement des capacités en Gestion Axée sur les Résultats (GAR), suivi des tâches, budget EVM et éthique pour le Conseil Régional du Gbêkê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
